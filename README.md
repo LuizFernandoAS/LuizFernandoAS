@@ -1,6 +1,6 @@
 <p align="center"> <h1 >Olá, Eu sou Luiz Fernando </h1> </p>
 
-Sou criativo, determinado e organizado. Estou sempre procurando superar meus limites, em busca de novos conhecimentos que me ajudem a crescer profissionalmente e me tornem uma pessoa melhor. 
+Sou criativo, determinado e organizado. Estou sempre procurando superar meus limites, em busca de novos conhecimentos que me ajudem a crescer profissionalmente e me tornem uma pessoa melhor. Atualmente estou cursando "Análise e Desenvolvimento de Sistemas" na Faculdade Impacta.
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=luizfernandoas&show_icons=true" alt="Luiz Fernando"/> 
