@@ -1,14 +1,43 @@
-<p align="center"> <h1 >Olá, Eu sou Luiz Fernando </h1> </p>
+# Luiz Fernando Araujo da Silva
 
-Sou criativo, determinado e organizado. Estou sempre procurando superar meus limites, em busca de novos conhecimentos que me ajudem a crescer profissionalmente e me tornem uma pessoa melhor. Atualmente estou cursando "Análise e Desenvolvimento de Sistemas" na Faculdade Impacta.
+<div> 
+    <a href="https://linkedin.com/in/luizfernando-as" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://instagram.com/nando_dalayoan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:luizfernandoaraujodasilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=luizfernandoas&show_icons=true" alt="Luiz Fernando"/> 
-</p>
+### Olá, Bem-vindo ao meu perfil! :wave: 
 
-<p align="center">
-<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="23" width="23" /></a>
-<a href="https://linkedin.com/in/luizfernando-as" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="23" width="23" /></a>
-<a href="https://fb.com/luizfernando.dalayoan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="23" width="23" /></a>
-<a href="https://instagram.com/nando_dalayoan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="23" width="23" /></a>
-</p>
+Sou um jovem criativo apaixonado por tecnologia. Gosto de programar e criar designs digitais. 
+
+<h4> Formação</h4>
+
+- Graduado em Análise e Desenvolvimento de Sistemas
+- Formado em Técnico em Informática
+- Formado em Técnico em Administração
+
+<br>
+
+<div align="between">
+<img src="https://github-readme-stats.vercel.app/api?username=luizfernandoas&show_icons=true&theme=tokyonight#gh-dark-mode-only" alt="Luiz Fernando"/> 
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfernandoas&layout=compact&theme=tokyonight#gh-dark-mode-only" alt="Luiz Fernando"/>
+
+</div>
+
+##
+
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Nando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Nando-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Nando-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Nando-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Nando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+  
+
+ 
+
+
+
+
