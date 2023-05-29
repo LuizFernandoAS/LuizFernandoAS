@@ -19,9 +19,9 @@ Sou um jovem criativo apaixonado por tecnologia. Gosto de programar e criar desi
 <br>
 
 <div align="between">
-<img src="https://github-readme-stats.vercel.app/api?username=luizfernandoas&show_icons=true&theme=tokyonight#gh-dark-mode-only" alt="Luiz Fernando"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=LuizFernandoAS&show_icons=true&theme=tokyonight#gh-dark-mode-only" alt="Luiz Fernando"/> 
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfernandoas&layout=compact&theme=tokyonight#gh-dark-mode-only" alt="Luiz Fernando"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFernandoAS&layout=compact&theme=tokyonight#gh-dark-mode-only" alt="Luiz Fernando"/>
 
 </div>
 
