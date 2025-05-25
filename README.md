@@ -8,8 +8,8 @@
 
 ### Olá, Bem-vindo ao meu perfil! :wave: 
 
-Sou um jovem profissional em constante evolução, com sólida formação acadêmica e prática: pós-graduado em Ciência de Dados e Big Data Analytics, graduado em Análise e Desenvolvimento de Sistemas e formação técnica em Administração e Informática. Essa combinação entre negócios e tecnologia me permite identificar oportunidades estratégicas nos dados e transformá-las em resultados concretos.
- 
+Sou Luiz Fernando, um jovem profissional em constante evolução, com sólida formação acadêmica e prática: pós-graduado em Ciência de Dados e Big Data Analytics, graduado em Análise e Desenvolvimento de Sistemas e formação técnica em Administração e Informática. Essa combinação entre negócios e tecnologia me permite identificar oportunidades estratégicas nos dados e transformá-las em resultados concreto.
+
 Atualmente, atuo como Analista de Negócios Pleno com foco em Speech Analytics, conectando dados complexos a insights claros e acionáveis que impulsionam decisões inteligentes e melhoram a performance organizacional. Minha paixão por tecnologia, design e matemática se reflete no domínio de ferramentas como Power BI, Python, Pandas, PySpark, SQL, Azure Databricks e conceitos de Machine Learning.
 
 <br>
