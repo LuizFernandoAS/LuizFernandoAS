@@ -12,14 +12,6 @@ Sou Luiz Fernando, um jovem profissional em constante evolução, com sólida fo
 
 Atualmente, atuo como Analista de Negócios Pleno com foco em Speech Analytics, conectando dados complexos a insights claros e acionáveis que impulsionam decisões inteligentes e melhoram a performance organizacional. Minha paixão por tecnologia, design e matemática se reflete no domínio de ferramentas como Power BI, Python, Pandas, PySpark, SQL, Azure Databricks e conceitos de Machine Learning.
 
-<br>
-
-<div align="between">
-    
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFernandoAS&layout=compact&theme=tokyonight#gh-dark-mode-only" alt="Luiz Fernando"/>
-
-</div>
-
   
 
  
